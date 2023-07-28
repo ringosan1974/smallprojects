@@ -1,0 +1,2 @@
+# smallprojects
+クソカスプログラム共
